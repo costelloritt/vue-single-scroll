@@ -33,6 +33,7 @@ export default {
         height: 100vh;
         width: 100vw;
         display: table-cell;
+        padding-top: 60px;
     }
 
     h1 {
