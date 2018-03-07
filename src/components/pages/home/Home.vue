@@ -27,7 +27,7 @@ export default {
 <style scoped>
     /* Fixed, full screen background image */
     .home-container {
-        background-image: url(../../assets/images/backgrounds/top-background.jpg);
+        background-image: url(../../../assets/images/backgrounds/top-background.jpg);
         background: top fixed center;
         background-size: cover;
         height: 100vh;
@@ -37,7 +37,7 @@ export default {
     }
 
     h1 {
-       color: white; 
+       color: white;
     }
 
     .btn {
