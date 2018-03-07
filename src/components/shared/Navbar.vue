@@ -34,8 +34,16 @@ export default {
 
 <style scoped>
     nav {
-        background-color: rgba(191, 191, 191, 0.65);
+        background-color: rgba(55, 55, 55, 0.65);
         position: fixed;
         top: 0;
+    }
+
+    #planets-dropdown {
+      background-color: rgba(55, 55, 55, 0.9);
+    }
+
+    #planets-dropdown a {
+      color: white;
     }
 </style>
