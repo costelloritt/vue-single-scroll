@@ -1,5 +1,7 @@
 <template>
-
+  <div class="sun-container">
+    Sun component alive!
+  </div>
 </template>
 
 <script>
@@ -9,5 +11,7 @@ export default {
 </script>
 
 <style scoped>
-
+  div {
+    color: white;
+  }
 </style>
